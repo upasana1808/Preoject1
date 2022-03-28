@@ -1,2 +1,6 @@
 This is my customer file
+
+added some text from phase 1
+=======
 added some lines from main branch
+
