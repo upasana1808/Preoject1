@@ -1,1 +1,2 @@
 This is my customer file
+added some text from phase 1
